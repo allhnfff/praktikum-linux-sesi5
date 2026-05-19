@@ -1,0 +1,2 @@
+Generate CSV customer data with columns:
+id,nama,email,no_hp,tanggal,daftar,status

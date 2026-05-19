@@ -1,0 +1,6 @@
+id,nama,email,no_hp,tanggal_daftar,status
+1,Andi,andi@gmail.com,08123,2026-05-01,aktif
+2,Budi,budi@gmail.com,08124,2026-05-02,aktif
+3,Citra,citra@yahoo.com,08125,2026-05-03,nonaktif
+4,Dina,dina@gmail.com,08126,2026-05-04,aktif
+5,Eko,eko@gmail.com,08127,2026-05-05,pending
